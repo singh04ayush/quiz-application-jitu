@@ -2,11 +2,6 @@
 
 This is a simple **Quiz Application** built using **React + Vite**. It provides a minimal setup to get React working efficiently with **Hot Module Replacement (HMR)** and **ESLint rules**.
 
-## Features
-- **React + Vite** for fast development
-- **ESLint** for code quality
-- **Dynamic quiz questions**
-- **Score tracking**
 
 ## Installation
 To get started, clone the repository and install dependencies:
